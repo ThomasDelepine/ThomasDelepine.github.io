@@ -1,0 +1,15 @@
+.sidebar {
+  position: fixed;
+  width: 200px;
+  height: 100vh;
+}
+
+.content {
+  margin-left: 240px;
+  height: 150;
+  background-color:#fdf0d5 ;
+}
+
+h1, h2, h3{
+    color:#9676a8
+}
